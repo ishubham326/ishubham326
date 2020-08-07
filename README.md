@@ -2,17 +2,17 @@
 
 ## I'm a Musician, Vocalist, UI/UX Designer, studying computer engineering at McMaster Uni, and on my path to becoming a self taught full stack developer!
 
-- 🔭 I’m currently working developing my front end skills!
-- 🌱 Trying to become a self taught full stack developer in the near future, just keep learning🐟🤣
-- 🥅 2020 Goals: Contribute more to open source projects and move onto learning back end.
+- 🔭 I’m currently working on developing my front end skills!
+- 🌱 Working my way to become a self taught full stack developer in the near future, just keep learning! 🐟🤣
+- 🥅 2020/21 Goals: Contribute more to open source projects and move onto learning back end.
 - ⚡ Fun fact: I also enjoy cinematography and photography.
 
 ### Connect with me:
 
 [<img align="left" alt="ishubham326 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ishubham326 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ishubham326 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="ishubham326 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][email]
+[<img align="left" alt="ishubham326 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
 ### Languages and Tools:
@@ -27,7 +27,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ishubham326&show_icons=true&hide_border=true" />
+<img align="left" alt="ishubham326's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ishubham326&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/ishubham326
 [instagram]: https://instagram.com/ishubham326
