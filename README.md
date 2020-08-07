@@ -3,8 +3,7 @@
 ## I'm a Musician, Vocalist, UI/UX Designer, studying computer engineering at McMaster Uni, and on my path to becoming a self taught full stack developer!
 
 - 🔭 I’m currently working developing my front end skills!
-- 🌱 Trying to become a self taught full stack developer in the near future, just keep learning🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 Trying to become a self taught full stack developer in the near future, just keep learning🐟🤣
 - 🥅 2020 Goals: Contribute more to open source projects and move onto learning back end.
 - ⚡ Fun fact: I also enjoy cinematography and photography.
 
