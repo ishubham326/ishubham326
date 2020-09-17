@@ -32,5 +32,5 @@
 
 [twitter]: https://twitter.com/ishubham326
 [instagram]: https://instagram.com/ishubham326
-[linkedin]: https://linkedin.com/in/ishubham326
+[linkedin]: https://www.linkedin.com/in/shubham-shukla-397b7a193/
 [email]: mailto:ishubham326@gmail.com
