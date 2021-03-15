@@ -3,9 +3,9 @@
 ## I'm studying computer engineering at McMaster Uni, and on my path to becoming a self taught front end developer! I have experience in Logo Design, UI Design as well Adobe XD, Photoshop, Illustrator, Premier and Lightroom.
 
 - 🔭 I’m currently working on developing my front end skills!
-- 🌱 Working my way to become a self taught front end developer in the near future, just keep learning! 🐟🤣
-- 🥅 2020/21 Goals: Contribute more to open source projects and keep expanding front end skills.
-- ⚡ Fun fact: I also enjoy music, cinematography and photography.
+- 🌱 Working my way to become a professional self taught front end developer in the near future, just keep learning! 🐟🤣
+- 🥅 2020/21 Goals: Contribute more to open source projects and keep expanding front end skills, including HTML, CSS, JS, and React. 
+- ⚡ Fun fact: I also enjoy making music, cinematography and photography.
 
 ### Connect with me:
 
