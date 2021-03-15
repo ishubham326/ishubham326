@@ -1,6 +1,6 @@
 ### Hey! I'm Shubham 👋
 
-## I'm a Musician, Vocalist, and a UI/UX Designer. I'm studying computer engineering at McMaster Uni, and on my path to becoming a self taught full stack developer!
+## I'm studying computer engineering at McMaster Uni, and on my path to becoming a self taught front end developer! I have experience in Logo Design, UI Design as well Adobe XD, Photoshop, Illustrator, Premier and Lightroom.
 
 - 🔭 I’m currently working on developing my front end skills!
 - 🌱 Working my way to become a self taught front end developer in the near future, just keep learning! 🐟🤣
