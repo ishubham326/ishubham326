@@ -3,16 +3,16 @@
 ## I'm studying computer engineering at McMaster Uni, and on my path to becoming a self taught front end developer! I have experience in Logo Design, UI Design as well Adobe XD, Photoshop, Illustrator, Premier and Lightroom.
 
 - 🔭 I’m currently working on developing my front end skills!
-- 🌱 Working my way to become a professional self taught front end developer in the near future, just keep learning! 🐟🤣
-- 🥅 2020/21 Goals: Contribute more to open source projects and keep expanding front end skills, including HTML, CSS, JS, and React. 
+- 🌱 Working my way to become a  self taught front end developer in the near future, and finishing my undergrad in Apr 2022, just keep learning! 🐟🤣
+- 🥅 2020/21 Goals: Build a protfolio, and keep expanding my front end skills, including HTML, CSS, JS, and React. 
 - ⚡ Fun fact: I also enjoy making music, cinematography and photography.
 
 ### Connect with me:
 
-[<img align="left" alt="ishubham326 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ishubham326 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="ishubham326 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][email]
 [<img align="left" alt="ishubham326 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ishubham326 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ishubham326 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 
 ### Languages and Tools I have experience in:
