@@ -2,10 +2,11 @@
 
 ## I'm studying computer engineering at McMaster Uni, and on my path to becoming a self taught front end developer! I have experience in Logo Design, UI Design as well Adobe XD, Photoshop, Illustrator, Premier and Lightroom.
 
-- 🔭 I’m currently working on developing my front end skills!
-- 🌱 Working my way to become a  self taught front end developer in the near future, and finishing my undergrad in Apr 2022, just keep learning! 🐟🤣
-- 🥅 2020/21 Goals: Build a protfolio, and keep expanding my front end skills, including HTML, CSS, JS, and React. 
-- ⚡ Fun fact: I also enjoy making music, cinematography and photography.
+- [<img align="left" alt="ishubham326 | FreeCodeCamp" width="10px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/freecodecamp.svg" />][free] I’m currently working on learing developing my front end skills through freecodecamp and personal projects.
+- 🌱 All this while finishing my undergrad in Apr 2022, just keep learning! 🐟🤣
+- 🥅 2020/21 Goals: Build a portfolio, and keep expanding my front end skills, including HTML, CSS, JS, and React. 
+- ⚡ I also enjoy making music, cinematography and photography.
+
 
 ### Connect with me:
 
@@ -30,6 +31,7 @@
 
 <img align="left" alt="ishubham326's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ishubham326&show_icons=true&hide_border=true" />
 
+[free]: https://www.freecodecamp.org/ishubham326
 [twitter]: https://twitter.com/ishubham326
 [instagram]: https://instagram.com/ishubham326
 [linkedin]: https://www.linkedin.com/in/shubham-shukla-397b7a193/
