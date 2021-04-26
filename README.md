@@ -29,8 +29,6 @@
 
 ---
 
-<img align="left" alt="ishubham326's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ishubham326&show_icons=true&hide_border=true" />
-
 [free]: https://www.freecodecamp.org/ishubham326
 [twitter]: https://twitter.com/ishubham326
 [instagram]: https://instagram.com/ishubham326
