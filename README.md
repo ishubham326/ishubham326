@@ -17,7 +17,7 @@
 <br />
 
 ### Languages and Tools I have experience in:
-HTML | CSS | SASS | JS | PYTHON | C++ | VSCODE | GIT and GITHUB
+HTML CSS SASS JS PYTHON C++ VSCODE GIT and GITHUB
 
 <br />
 [<img align="left" alt="html5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
