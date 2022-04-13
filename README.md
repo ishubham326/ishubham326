@@ -4,7 +4,7 @@
 
 - [<img align="center" alt="ishubham326 | FreeCodeCamp" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/freecodecamp.svg"/>][free] I’m currently working on learing and developing my front end skills through freecodecamp and personal projects.
 - 🌱   All this while finishing my undergrad in Apr 2022, just keep learning! 🐟🤣
-- 🥅   2022/23 Goals: Expand frontend skills. Learn React, Redux, a DB and SQL
+- 🥅   2022/23 Goals: Expand frontend skills and start building on back-end. Currently learning Redx and Node JS
 - ⚡   I also enjoy making music, cinematography and photography.
 
 
