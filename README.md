@@ -15,9 +15,11 @@ HTML - CSS - SASS - JS - REACT - PYTHON - C++ - VSCODE - GIT - GITHUB
 
 
 ### Connect with me:
-
+#### ![Resume](https://github.com/ishubham326/ishubham326/blob/master/Shubham%20Shukla%20Resume_2022.pdf)
 [<img align="left" alt="ishubham326 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][email]
 [<img align="left" alt="ishubham326 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
 
 [free]: https://www.freecodecamp.org/ishubham326
 [twitter]: https://twitter.com/ishubham326
