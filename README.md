@@ -1,10 +1,9 @@
-## Hey! I'm Shubham 👋
+## Heyo! I'm Shubham 👋
 
 ### Undergrad from McMaster University in Computer Engineering. Front-end developer who loves chai. I have experience in Logo Design, UI Design as well Adobe XD, Photoshop, Illustrator, Premier and Lightroom.
 
-- [<img align="center" alt="ishubham326 | FreeCodeCamp" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/freecodecamp.svg"/>][free] Always learing and developing my front end skills through freecodecamp and personal projects.
+- [<img align="center" alt="ishubham326 | FreeCodeCamp" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/freecodecamp.svg"/>][free] Always learing and developing my front end skills through freeCodeCamp and personal projects.
 - 🎓   Finished my undergrad in Apr 2022! 
-- 🥅   2022/23 Goals: Expand frontend skills and start diving into a little back-end. Currently focusing on React!
 - ⚡   I also enjoy making music, cinematography and photography.
 
 
